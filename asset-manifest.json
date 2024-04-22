@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/git@github.com:JustineTdrs/Portfolio2024.git/static/css/main.64388ba0.chunk.css",
+    "main.js": "/git@github.com:JustineTdrs/Portfolio2024.git/static/js/main.15e42cbc.chunk.js",
+    "main.js.map": "/git@github.com:JustineTdrs/Portfolio2024.git/static/js/main.15e42cbc.chunk.js.map",
+    "runtime-main.js": "/git@github.com:JustineTdrs/Portfolio2024.git/static/js/runtime-main.07a274cd.js",
+    "runtime-main.js.map": "/git@github.com:JustineTdrs/Portfolio2024.git/static/js/runtime-main.07a274cd.js.map",
+    "static/css/2.d64471e2.chunk.css": "/git@github.com:JustineTdrs/Portfolio2024.git/static/css/2.d64471e2.chunk.css",
+    "static/js/2.c2e1b725.chunk.js": "/git@github.com:JustineTdrs/Portfolio2024.git/static/js/2.c2e1b725.chunk.js",
+    "static/js/2.c2e1b725.chunk.js.map": "/git@github.com:JustineTdrs/Portfolio2024.git/static/js/2.c2e1b725.chunk.js.map",
+    "index.html": "/git@github.com:JustineTdrs/Portfolio2024.git/index.html",
+    "precache-manifest.c769a3ae6699f6cc7213a4aa4fe0c533.js": "/git@github.com:JustineTdrs/Portfolio2024.git/precache-manifest.c769a3ae6699f6cc7213a4aa4fe0c533.js",
+    "service-worker.js": "/git@github.com:JustineTdrs/Portfolio2024.git/service-worker.js",
+    "static/css/2.d64471e2.chunk.css.map": "/git@github.com:JustineTdrs/Portfolio2024.git/static/css/2.d64471e2.chunk.css.map",
+    "static/css/main.64388ba0.chunk.css.map": "/git@github.com:JustineTdrs/Portfolio2024.git/static/css/main.64388ba0.chunk.css.map",
+    "static/js/2.c2e1b725.chunk.js.LICENSE.txt": "/git@github.com:JustineTdrs/Portfolio2024.git/static/js/2.c2e1b725.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07a274cd.js",
+    "static/css/2.d64471e2.chunk.css",
+    "static/js/2.c2e1b725.chunk.js",
+    "static/css/main.64388ba0.chunk.css",
+    "static/js/main.15e42cbc.chunk.js"
+  ]
+}
